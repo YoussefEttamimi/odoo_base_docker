@@ -25,6 +25,10 @@ a full-featured <a href="https://www.odoo.com">Open Source ERP</a> when you inst
 
 Getting started
 -------------------------
+
+You need to create the extra-addons folder in order to run the docker compose. That folder will contain the extra modules you want to add.
+
+
   Start
   
 docker compose up -d
